@@ -116,3 +116,19 @@ p {
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+
+  @media (max-width:900px) {
+    .top-cloud {
+        position: absolute;
+        right: 30px;
+        top:60px;
+    
+    }
+    .mountain{
+        width: 100%;
+    }
+    .bottom-cloud {
+        position: absolute;
+        left: 50px;
+    }
+  }
