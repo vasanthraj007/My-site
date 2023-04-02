@@ -132,7 +132,7 @@ p {
         left: 50px;
     }
   }
-  @media (max-width:600px) {
+  @media (max-width:400px) {
     .top-cloud {
         position: absolute;
         right: 30px;
@@ -144,6 +144,6 @@ p {
     }
     .bottom-cloud {
         position: absolute;
-        left: 50px;
+        left: 30px;
     } 
 }
